@@ -1,4 +1,4 @@
-#IBM Tools for Data Science, Coursera course 2 of 12 for IBM Data Science certifiate Final Assignment.
+# IBM Tools for Data Science, Coursera course 2 of 12 for IBM Data Science certifiate Final Assignment.
 ## Data-Science-Tools-and-Ecosystem
 
 Creating and Sharing a Jupyter Notebook.
